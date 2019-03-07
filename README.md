@@ -12,3 +12,7 @@ docker build -t node-web-app .
 ```bash
 docker run -p 49160:8080 -d node-web-app
 ```
+
+# Test
+
+Access the container here: http://localhost:49160/
